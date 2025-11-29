@@ -3,3 +3,7 @@ langchain-google-genai
 langchain-openai
 pydantic
 python-dotenv
+fastapi
+uvicorn
+strawberry-graphql[fastapi]
+psycopg2-binary
