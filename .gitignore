@@ -1,0 +1,133 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Logs and runtime files
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Node
+node_modules/
+dist/
+build/
+.tmp/
+.cache/
+.next/
+.nuxt/
+.out/
+.vercel/
+.netlify/
+parcel-cache/
+.eslintcache
+.pnp.*
+
+# TypeScript/JS artifacts
+*.tsbuildinfo
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.egg-info/
+dist/
+build/
+.eggs/
+.env/
+venv/
+.venv/
+pip-log.txt
+pip-delete-this-directory.txt
+.pytest_cache/
+
+# Java / JVM
+target/
+build/
+*.class
+*.jar
+*.war
+*.ear
+.gradle/
+.idea/
+
+# Go
+/bin/
+/obj/
+/pkg/
+*.exe
+*.test
+
+# Rust
+/target/
+**/*.rs.bk
+
+# C/C++
+*.o
+*.obj
+*.so
+*.dll
+*.dylib
+*.exe
+
+# Ruby
+*.gem
+/.bundle
+/log/
+tmp/
+
+# PHP / Composer
+/vendor/
+composer.lock
+
+# IDEs and editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.code-workspace
+
+# JetBrains
+*.iml
+out/
+
+# Terraform
+*.tfstate
+*.tfstate.*
+.terraform/
+
+# Container
+docker-compose.override.yml
+docker-compose.*.yml
+*.crt
+*.key
+
+# Archives and packages
+*.zip
+*.tar.gz
+*.rar
+
+# Coverage
+coverage/
+coverage-final.json
+lcov-report/
+
+# Misc
+*.swp
+*~
+.project
+.cache
